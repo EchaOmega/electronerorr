@@ -1,0 +1,332 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/EchaOmega/bms/main/occ.anko.bemuse/",
+      "added": "2023-10-27"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/EchaOmega/bms/main/%5BRose-Quartz%5DFracturedWorld-bemuse/",
+      "added": "2023-10-27"
+    }
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "83eb8aabebb34df8c764c8a8e688e672",
+          "info": {
+            "title": "Occlusion",
+            "artist": "Ank⟐",
+            "genre": "VISION",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [
+              "bga:Echa/obj:Echa"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1642,
+          "bpm": {
+            "init": 181,
+            "min": 90.5,
+            "median": 181,
+            "max": 181
+          },
+          "duration": 149.8342541436464,
+          "scratch": true,
+          "keys": "7K",
+          "file": "another.bms"
+        },
+        {
+          "md5": "fea3c692a1145b7aa8d05b955731f543",
+          "info": {
+            "title": "Occlusion",
+            "artist": "Ank⟐",
+            "genre": "VISION",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [
+              "bga:Echa/obj:Echa"
+            ],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 218,
+          "bpm": {
+            "init": 181,
+            "min": 90.5,
+            "median": 181,
+            "max": 181
+          },
+          "duration": 149.8342541436464,
+          "scratch": true,
+          "keys": "7K",
+          "file": "beginner.bms"
+        },
+        {
+          "md5": "c77c88a975e327bcfe1db0350c678727",
+          "info": {
+            "title": "Occlusion",
+            "artist": "Ank⟐",
+            "genre": "VISION",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [
+              "bga:Echa/obj:Echa"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 974,
+          "bpm": {
+            "init": 181,
+            "min": 90.5,
+            "median": 181,
+            "max": 181
+          },
+          "duration": 149.8342541436464,
+          "scratch": true,
+          "keys": "7K",
+          "file": "hyper.bms"
+        },
+        {
+          "md5": "7b27e58baf623ee16d271dcf1dffcb30",
+          "info": {
+            "title": "Occlusion",
+            "artist": "Ank⟐",
+            "genre": "VISION",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [
+              "bga:Echa/obj:Echa"
+            ],
+            "difficulty": 2,
+            "level": 8
+          },
+          "noteCount": 532,
+          "bpm": {
+            "init": 181,
+            "min": 90.5,
+            "median": 181,
+            "max": 181
+          },
+          "duration": 149.8342541436464,
+          "scratch": true,
+          "keys": "7K",
+          "file": "normal.bms"
+        },
+        {
+          "md5": "b9f7b497227c10a9ca75025a1f6e87f8",
+          "info": {
+            "title": "Occlusion",
+            "artist": "Ank⟐",
+            "genre": "VISION",
+            "subtitles": [
+              "[SP OVERJOY]"
+            ],
+            "subartists": [
+              "bga:Echa/obj:Echa"
+            ],
+            "difficulty": 5,
+            "level": 4
+          },
+          "noteCount": 4437,
+          "bpm": {
+            "init": 181,
+            "min": 90.5,
+            "median": 181,
+            "max": 181
+          },
+          "duration": 149.8342541436464,
+          "scratch": true,
+          "keys": "7K",
+          "file": "overjoy.bms"
+        },
+        {
+          "md5": "074e77bf846176736d519dd4df9b7499",
+          "info": {
+            "title": "Occlusion",
+            "artist": "Ank⟐",
+            "genre": "VISION",
+            "subtitles": [
+              "[SP INSANE]"
+            ],
+            "subartists": [
+              "bga:Echa / obj:Ank⟐"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2343,
+          "bpm": {
+            "init": 181,
+            "min": 90.5,
+            "median": 181,
+            "max": 181
+          },
+          "duration": 149.8342541436464,
+          "scratch": true,
+          "keys": "7K",
+          "file": "pattern blindness.bms"
+        }
+      ],
+      "title": "Occlusion",
+      "artist": "Ank⟐",
+      "genre": "VISION",
+      "bpm": 181,
+      "video_url": "bemuse-data/bga.mp4",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=5UhJ8UCT1BY",
+      "bmssearch_id": "orhH1qhEtFryUz",
+      "artist_url": "https://soundcloud.com/ankomakesmusic",
+      "readme": "README.md",
+      "replaygain": "-0.02 dB",
+      "preview_offset": 54,
+      "preview_url": "bemuse-data/preview.mp3",
+      "video_offset": 1.32,
+      "added": "2023-10-27T00:00:00.000Z",
+      "id": "occ.anko.bemuse",
+      "path": "https://raw.githubusercontent.com/EchaOmega/bms/main/occ.anko.bemuse/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "a7399a8e12f0ea8cb35bae03e2969f48",
+          "info": {
+            "title": "Fractured World",
+            "artist": "Rose Quartz",
+            "genre": "Spirit Chill",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "bga:Rose Quartz/obj:Echa"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 2057,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 142.41176470588235,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_another.bms"
+        },
+        {
+          "md5": "c0be52c7a9fe04939b2be6d0ec1a5591",
+          "info": {
+            "title": "Fractured World",
+            "artist": "Rose Quartz",
+            "genre": "Spirit Chill",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "bga:Rose Quartz/obj:Echa"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 106,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 142.41176470588235,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_beginner.bme"
+        },
+        {
+          "md5": "95481edd3c4f665b5b32ee0feec4cd86",
+          "info": {
+            "title": "Fractured World",
+            "artist": "Rose Quartz",
+            "genre": "Spirit Chill",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [
+              "bga:Rose Quartz/obj:Echa"
+            ],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 1122,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 142.41176470588235,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_hyper.bms"
+        },
+        {
+          "md5": "2d55882ec462d1b520b378c4d1d34c27",
+          "info": {
+            "title": "Fractured World",
+            "artist": "Rose Quartz",
+            "genre": "Spirit Chill",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [
+              "bga:Rose Quartz/obj:Echa"
+            ],
+            "difficulty": 2,
+            "level": 4
+          },
+          "noteCount": 345,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 142.41176470588235,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_normal.bms"
+        }
+      ],
+      "title": "Fractured World",
+      "artist": "Rose Quartz",
+      "genre": "Spirit Chill",
+      "bpm": 170,
+      "replaygain": "-6.28 dB",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=208&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=ZCgQin4-cGw",
+      "bmssearch_id": "-C_4Ek0g16N1Hg",
+      "artist_url": "https://roseqrtz.carrd.co/",
+      "readme": "README.md",
+      "preview_offset": 87,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.41,
+      "added": "2023-10-27T00:00:00.000Z",
+      "id": "%5BRose-Quartz%5DFracturedWorld-bemuse",
+      "path": "https://raw.githubusercontent.com/EchaOmega/bms/main/%5BRose-Quartz%5DFracturedWorld-bemuse/"
+    }
+  ]
+}
